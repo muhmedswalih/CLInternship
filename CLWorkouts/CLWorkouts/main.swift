@@ -9,3 +9,8 @@ import Foundation
 
 print("Hello, World!")
 
+let a = 5
+let b = 7
+
+print("a+b = \(a+b)")
+
