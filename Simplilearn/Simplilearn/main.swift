@@ -131,11 +131,23 @@ for (name,age) in nameDict{
     print("name is \(name) and age is \(age)")
 }
 
-
 //FUNCTIONS-PARAMETERS AND ARGUMENTS
 
 func addNumbers(a : Int, b : Int) -> Int{
     return a+b
 }
 let sum = addNumbers(a: 4, b: 5)
-print("the sum is \(sum)") 
+print("the sum is \(sum)")
+
+
+mySimplePrint()
+myArrayOps()
+controlsOps()
+funcOps()
+closureOps()
+enumzOps()
+subscriptOps()
+initOps()
+deinitOps()
+optionalops()
+errorHandlingOps()
